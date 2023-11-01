@@ -1,0 +1,34 @@
+integer num1 = 6
+str word1 = compsci is fun
+MathComp: num1 = 10 + 6
+print: num1
+MathComp: num1 = 11 - 2
+print: num1
+MathComp: num1 = 6 / 2
+print: num1
+MathComp: num1 = 10 % 3
+print: num1
+MathComp: num1 = 3 * 2
+print: num1
+if num1 == 6
+    ++ num1
+    print: num1
+    print: word1
+}
+## test comment
+str userteller1 = please enter a number less than 12
+str userteller2 = please enter a phrase
+print: userteller2
+input >> str word2
+print: userteller1
+input >> integer num2
+## test comment number 2
+print: word2
+++ num2
+-- num2
+-- num2
+print: num2
+while ++ num2 < 12
+    print: num2
+}
+print: num2

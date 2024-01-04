@@ -1,6 +1,3 @@
-//Dhruv Susheelkar
-//Mr. Jan
-//AP Compsci P: 2
 package com.company;
 import java.util.*;
 public class Main {

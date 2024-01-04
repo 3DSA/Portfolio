@@ -1,6 +1,3 @@
-//Dhruv Susheelkar
-//Mr. Jan
-//Period: 2
 package com.company;
 public class Type {
     private String name;

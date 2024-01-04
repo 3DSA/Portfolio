@@ -1,6 +1,3 @@
-//Dhruv Susheelkar
-//Mr.Jan
-//Computer Science Period: 2
 import java.util.*;
 import java.io.FileNotFoundException;
 import java.io.File;
